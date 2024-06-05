@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Health E-book: Sua saúde, sua responsabilidade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O “E-book da Saúde” foi desenvolvido pensando em servir de guia para os milhares e milhões de mulheres que apresentam sintomas diversos, mas quando vão ao médico fazem apenas exames de rotina e dizem que “está tudo bem” e que deveria parar de reclamar. O objetivo não é diagnosticar você, mas ser um guia para que você saiba quais exames solicitar e quais perguntas fazer quando estiver em consulta. Além disso, para que você saiba que não está louco e que pode viver sem sintomas. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Para estilização de texto: [ChatGPT](https://chatgpt.com/); [Free - AI Assistant](https://freeassist.ai); [QuillBot](https://quillbot.com)     
+- Para criação de imagem: [Craiyon](https://www.craiyon.com)                                                                   
+- Para montagem do Ebook: [Visme.co](https://www.visme.co)                      
+- Para editor de código: [Readme.so](https://readme.so/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A etapa mais difícil foi decidir sobre o que faria o E-book, queria que fosse um tema que pudesse continuar desenvolvendo após o desafio e utilizar no meu negócio, após brainstorming, resolvi falar sobre deficiências de vitaminas e minerais e seu efeito no corpo feminino.
+
+Decidido o tema, utilizei o GPT para a pesquisa e desenvolvimento da estrutura que o E-book teria, com o Free AI Assistant, os textos obtiveram a nuance de escrita que eu desejava.
+
+Então entrei no Visme e procurei os templates que mais se assemelhassem ao desejado, e que exigiriam o mínimo de alterações, então começou a montagem e posicionamento do texto, ao mesmo tempo em que dava instruções ao Craiyon sobre as imagens que eu necessário.
+
+Fiz questão de dar instruções claras e concisas que fizeram com que as diversas IAs envolvidas dessem os resultados desejados, e assim o E-book ficou pronto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Bem-vindo à Sua saúde, sua responsabilidade! Um Ebook que se tornou realidade graças ao uso de IAs generativas
+
+[Health E-book](https://my.visme.co/view/eprqoyxx-health-ebook)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Gostei muito do desafio, antes de ter utilizado IAs para a geração de livros digitais, desta vez ousei explorar outras IAs, independente se isso demorasse um pouco mais, agora conheço as opções que cada uma dessas oferece, o que No futuro, isso me permitirá fazer escolhas mais conscientes que proporcionem resultados mais otimizados.
